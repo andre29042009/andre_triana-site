@@ -1,1 +1,9 @@
-julia
+git config --global --unset-all user.mail
+git config --global --unset-all user.name
+
+git config --global user.name "andregarrido29042009"
+git config --global user.mail andretrianaaa@gmail.com
+
+git config --list
+
+git clone https://github.com/andre29042009/andre_triana-site.git
